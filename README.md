@@ -1,5 +1,5 @@
 - # sobre mim
-- 👋 Olá me nome é @Beatrizpreti45
-- :+1: Meu email de contato é beatriz.greco@escola.pr.gov.br
+- 👋 Olá me nome é **@Beatrizpreti45**
+- :+1: Meu email de contato é [email](beatriz.greco@escola.pr.gov.br)
 -  👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recenemente a linguagem de JavaScript e Scratch
